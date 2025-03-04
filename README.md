@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Daffa Ulhaq | 💻 Front End Web Developer | 🛸 Indonesia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
+  <h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> Daffa Ulhaq | Front End Web Developer | Indonesia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /></h3>
 </div>
 
 <p align='center'>
@@ -13,12 +13,6 @@
   <a href="https://dev.to/dauljsx"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/devto.png?raw=true"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/hqz095kzic7nc6f07zdru8lcg?si=77b5b50cf064479c"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/spotify.png?raw=true"></a>&nbsp;&nbsp;
 </p>
-
-<br />
-
-<div align="center">
-   <img src="https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
-</div>
 
 <br />
 
